@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getDueCardIds, getTotalReviewed, getStreak } from '../services/progress'
 import { segmentWord } from '../utils/pronunciation'
-import { WaveDivider } from '../components/WaveDivider'
 import { PronunciationGuide } from '../components/PronunciationGuide'
 import vocabulary from '../data/vocabulary.json'
 import type { VocabWord } from '../types'
@@ -32,24 +31,17 @@ export default function HomePage() {
     <>
       {showGuide && <PronunciationGuide onClose={() => setShowGuide(false)} />}
 
-      {/* Island hero header */}
-      <div className="bg-ocean relative">
-        <div className="px-5 pt-8 pb-0">
-          <p className="text-teal-light text-xs font-bold tracking-[0.2em] uppercase">Fino' CHamoru</p>
-          <h1 className="text-4xl font-extrabold text-white mt-1 leading-tight">
-            Håfa Adai! 🌊
-          </h1>
-          <p className="text-teal-light text-sm mt-1 mb-6">
-            The language of Guåhan &amp; the Marianas
-          </p>
-        </div>
-        <WaveDivider fill="#F5F0E8" />
+      {/* Island hero */}
+      <div className="bg-ocean rounded-b-3xl px-5 pt-10 pb-8 shadow-lg">
+        <p className="text-teal-light text-xs font-bold tracking-[0.2em] uppercase">Fino' CHamoru</p>
+        <h1 className="text-4xl font-extrabold text-white mt-1 leading-tight">Håfa Adai! 🌊</h1>
+        <p className="text-teal-light/70 text-sm mt-1">The language of Guåhan &amp; the Marianas</p>
       </div>
 
-      <div className="max-w-lg mx-auto px-4 space-y-6 pb-8">
+      <div className="max-w-lg mx-auto px-4 space-y-5 pt-5 pb-8">
 
         {/* Stats */}
-        <div className="grid grid-cols-3 gap-3 -mt-2">
+        <div className="grid grid-cols-3 gap-3">
           <div className="bg-white rounded-2xl p-4 text-center shadow-sm">
             <p className="text-2xl font-extrabold text-coral">{streak}</p>
             <p className="text-xs text-gray-400 mt-1">Day Streak 🔥</p>
@@ -66,8 +58,8 @@ export default function HomePage() {
 
         {/* Daily word */}
         <div className="bg-teal rounded-2xl overflow-hidden shadow-md">
-          <div className="px-5 pt-5 pb-3">
-            <p className="text-xs font-bold tracking-widest text-teal-light uppercase">Word of the Day</p>
+          <div className="px-5 pt-5 pb-4">
+            <p className="text-xs font-bold tracking-widest text-teal-light/70 uppercase">Word of the Day</p>
             <p className="text-4xl font-extrabold text-white mt-2">
               {dailySegments.map((seg, i) =>
                 seg.highlight
@@ -77,16 +69,12 @@ export default function HomePage() {
             </p>
             <p className="text-lg text-teal-light mt-1">{daily.english}</p>
             {daily.example_chamorro && (
-              <p className="text-sm text-teal-light/80 mt-2 italic">"{daily.example_chamorro}"</p>
+              <p className="text-sm text-teal-light/70 mt-2 italic">"{daily.example_chamorro}"</p>
             )}
           </div>
-          <WaveDivider fill="#065F70" />
           <div className="bg-teal-dark px-5 py-3 flex items-center justify-between">
-            <p className="text-xs text-teal-light">{daily.category} · {daily.part_of_speech}</p>
-            <button
-              onClick={() => setShowGuide(true)}
-              className="text-xs text-teal-light underline underline-offset-2"
-            >
+            <p className="text-xs text-teal-light/60">{daily.category} · {daily.part_of_speech}</p>
+            <button onClick={() => setShowGuide(true)} className="text-xs text-teal-light underline underline-offset-2">
               How to pronounce?
             </button>
           </div>
@@ -127,7 +115,7 @@ export default function HomePage() {
           </div>
         </div>
 
-        {/* Pronunciation guide CTA */}
+        {/* Pronunciation guide */}
         <button
           onClick={() => setShowGuide(true)}
           className="w-full flex items-center bg-coral/10 border border-coral/20 rounded-2xl p-4 text-left hover:bg-coral/15 transition-colors"
@@ -144,8 +132,8 @@ export default function HomePage() {
         <div className="bg-ocean/5 border border-ocean/10 rounded-2xl p-4">
           <p className="text-xs font-bold text-ocean uppercase tracking-widest mb-1">Did you know?</p>
           <p className="text-sm text-gray-700 leading-relaxed">
-            Chamorro (Fino' CHamoru) is one of the oldest living Pacific languages, spoken in Guåhan, Saipan,
-            and the Mariana Islands for over 3,500 years. With about 45,000 speakers worldwide,
+            Fino' CHamoru is one of the oldest Pacific languages — spoken in Guåhan, Saipan,
+            and the Marianas for over 3,500 years. With about 45,000 speakers worldwide,
             every word you learn helps preserve an irreplaceable piece of Pacific heritage.
           </p>
         </div>
