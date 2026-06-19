@@ -1,0 +1,2198 @@
+[
+  {
+    "id": "001",
+    "chamorro": "håfa adai",
+    "english": "hello / welcome",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Håfa adai, håfa na'an-mu?",
+    "example_english": "Hello, what is your name?"
+  },
+  {
+    "id": "002",
+    "chamorro": "håfa",
+    "english": "what / how",
+    "category": "greetings",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Håfa na'an-mu?",
+    "example_english": "What is your name?"
+  },
+  {
+    "id": "003",
+    "chamorro": "buenas dias",
+    "english": "good morning",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Buenas dias, i nåna.",
+    "example_english": "Good morning, Mom."
+  },
+  {
+    "id": "004",
+    "chamorro": "buenas tådes",
+    "english": "good afternoon",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Buenas tådes, señot.",
+    "example_english": "Good afternoon, sir."
+  },
+  {
+    "id": "005",
+    "chamorro": "buenas noches",
+    "english": "good evening / good night",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Buenas noches, familia.",
+    "example_english": "Good evening, family."
+  },
+  {
+    "id": "006",
+    "chamorro": "asta",
+    "english": "until / goodbye",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Asta la vista.",
+    "example_english": "Until we see each other again."
+  },
+  {
+    "id": "007",
+    "chamorro": "asta la proxima",
+    "english": "until next time",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Asta la proxima, amigo.",
+    "example_english": "Until next time, friend."
+  },
+  {
+    "id": "008",
+    "chamorro": "si yu'us ma'åse'",
+    "english": "thank you",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Si yu'us ma'åse', nåna.",
+    "example_english": "Thank you, Mom."
+  },
+  {
+    "id": "009",
+    "chamorro": "ti nahong",
+    "english": "you're welcome / it's nothing",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Ti nahong, håyi.",
+    "example_english": "You're welcome, anyone."
+  },
+  {
+    "id": "010",
+    "chamorro": "sen håpbigo",
+    "english": "excuse me / I'm sorry",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Sen håpbigo, åmko'.",
+    "example_english": "Excuse me, elder."
+  },
+  {
+    "id": "011",
+    "chamorro": "håfa tatamanu",
+    "english": "how are you",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Håfa tatamanu hao?",
+    "example_english": "How are you?"
+  },
+  {
+    "id": "012",
+    "chamorro": "maolek",
+    "english": "good / fine / well",
+    "category": "greetings",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Maolek yo'.",
+    "example_english": "I am fine."
+  },
+  {
+    "id": "013",
+    "chamorro": "båba",
+    "english": "bad / not good",
+    "category": "greetings",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Ti maolek, båba.",
+    "example_english": "Not good, bad."
+  },
+  {
+    "id": "014",
+    "chamorro": "na'an",
+    "english": "name",
+    "category": "greetings",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håfa na'an-mu?",
+    "example_english": "What is your name?"
+  },
+  {
+    "id": "015",
+    "chamorro": "kao",
+    "english": "question marker (are / is / do)",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Kao maolek hao?",
+    "example_english": "Are you well?"
+  },
+  {
+    "id": "016",
+    "chamorro": "hunggan",
+    "english": "yes",
+    "category": "greetings",
+    "part_of_speech": "interjection",
+    "example_chamorro": "Hunggan, maolek yo'.",
+    "example_english": "Yes, I am well."
+  },
+  {
+    "id": "017",
+    "chamorro": "ahe'",
+    "english": "no",
+    "category": "greetings",
+    "part_of_speech": "interjection",
+    "example_chamorro": "Ahe', ti maolek.",
+    "example_english": "No, not well."
+  },
+  {
+    "id": "018",
+    "chamorro": "biba",
+    "english": "hurray / long live / cheers",
+    "category": "greetings",
+    "part_of_speech": "interjection",
+    "example_chamorro": "Biba CHamoru!",
+    "example_english": "Long live the Chamorro people!"
+  },
+  {
+    "id": "019",
+    "chamorro": "håcha",
+    "english": "one",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Håcha na niyok.",
+    "example_english": "One coconut."
+  },
+  {
+    "id": "020",
+    "chamorro": "hugua",
+    "english": "two",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Hugua na paluma.",
+    "example_english": "Two birds."
+  },
+  {
+    "id": "021",
+    "chamorro": "tulu",
+    "english": "three",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Tulu na patgon.",
+    "example_english": "Three children."
+  },
+  {
+    "id": "022",
+    "chamorro": "fatfat",
+    "english": "four",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Fatfat na peskao.",
+    "example_english": "Four fish."
+  },
+  {
+    "id": "023",
+    "chamorro": "lima",
+    "english": "five",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Lima na mansana.",
+    "example_english": "Five apples."
+  },
+  {
+    "id": "024",
+    "chamorro": "gunum",
+    "english": "six",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Gunum na låhi.",
+    "example_english": "Six boys."
+  },
+  {
+    "id": "025",
+    "chamorro": "fiti",
+    "english": "seven",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Fiti na påtgon.",
+    "example_english": "Seven children."
+  },
+  {
+    "id": "026",
+    "chamorro": "guålu",
+    "english": "eight",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Guålu na katu.",
+    "example_english": "Eight cats."
+  },
+  {
+    "id": "027",
+    "chamorro": "sigua",
+    "english": "nine",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Sigua na palåo'an.",
+    "example_english": "Nine women."
+  },
+  {
+    "id": "028",
+    "chamorro": "månot",
+    "english": "ten",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Månot na kåyu.",
+    "example_english": "Ten trees."
+  },
+  {
+    "id": "029",
+    "chamorro": "ånse",
+    "english": "eleven",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Ånse na lepblo.",
+    "example_english": "Eleven books."
+  },
+  {
+    "id": "030",
+    "chamorro": "dos",
+    "english": "twelve",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Dos na oran.",
+    "example_english": "Twelve hours."
+  },
+  {
+    "id": "031",
+    "chamorro": "trese",
+    "english": "thirteen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Trese na åñu.",
+    "example_english": "Thirteen years."
+  },
+  {
+    "id": "032",
+    "chamorro": "katotse",
+    "english": "fourteen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Katotse na diha.",
+    "example_english": "Fourteen days."
+  },
+  {
+    "id": "033",
+    "chamorro": "kinse",
+    "english": "fifteen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Kinse na minuto.",
+    "example_english": "Fifteen minutes."
+  },
+  {
+    "id": "034",
+    "chamorro": "dies i seis",
+    "english": "sixteen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Dies i seis na estudiånte.",
+    "example_english": "Sixteen students."
+  },
+  {
+    "id": "035",
+    "chamorro": "dies i siete",
+    "english": "seventeen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Dies i siete na åñu.",
+    "example_english": "Seventeen years old."
+  },
+  {
+    "id": "036",
+    "chamorro": "dies i otso",
+    "english": "eighteen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Dies i otso na segundu.",
+    "example_english": "Eighteen seconds."
+  },
+  {
+    "id": "037",
+    "chamorro": "dies i nuebi",
+    "english": "nineteen",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Dies i nuebi na kilometro.",
+    "example_english": "Nineteen kilometers."
+  },
+  {
+    "id": "038",
+    "chamorro": "bente",
+    "english": "twenty",
+    "category": "numbers",
+    "part_of_speech": "number",
+    "example_chamorro": "Bente na pesos.",
+    "example_english": "Twenty pesos."
+  },
+  {
+    "id": "039",
+    "chamorro": "kulot",
+    "english": "color",
+    "category": "colors",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håfa kulot enao?",
+    "example_english": "What color is that?"
+  },
+  {
+    "id": "040",
+    "chamorro": "agaga'",
+    "english": "red",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Agaga' i guafi.",
+    "example_english": "The fire is red."
+  },
+  {
+    "id": "041",
+    "chamorro": "asut",
+    "english": "blue",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Asut i langet.",
+    "example_english": "The sky is blue."
+  },
+  {
+    "id": "042",
+    "chamorro": "betde",
+    "english": "green",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Betde i kåyu.",
+    "example_english": "The tree is green."
+  },
+  {
+    "id": "043",
+    "chamorro": "abubu",
+    "english": "gray",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Abubu i nubes.",
+    "example_english": "The cloud is gray."
+  },
+  {
+    "id": "044",
+    "chamorro": "åpaka'",
+    "english": "white",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Åpaka' i nubis.",
+    "example_english": "The cloud is white."
+  },
+  {
+    "id": "045",
+    "chamorro": "åttilong",
+    "english": "black",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Åttilong i gabinete.",
+    "example_english": "The cabinet is black."
+  },
+  {
+    "id": "046",
+    "chamorro": "amariyu",
+    "english": "yellow",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Amariyu i finena'.",
+    "example_english": "The sun is yellow."
+  },
+  {
+    "id": "047",
+    "chamorro": "kolot chaguan",
+    "english": "orange",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Kolot chaguan i mansana.",
+    "example_english": "The fruit is orange."
+  },
+  {
+    "id": "048",
+    "chamorro": "morådo",
+    "english": "purple",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Morådo i flores.",
+    "example_english": "The flower is purple."
+  },
+  {
+    "id": "049",
+    "chamorro": "kulot cha'",
+    "english": "brown",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Kulot cha' i tano'.",
+    "example_english": "The soil is brown."
+  },
+  {
+    "id": "050",
+    "chamorro": "dos kolot",
+    "english": "pink",
+    "category": "colors",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Dos kolot i flores.",
+    "example_english": "The flower is pink."
+  },
+  {
+    "id": "051",
+    "chamorro": "familia",
+    "english": "family",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Guåho yan i familia-hu.",
+    "example_english": "Me and my family."
+  },
+  {
+    "id": "052",
+    "chamorro": "nåna",
+    "english": "mother / mom",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I nåna-hu gof mamahlao.",
+    "example_english": "My mother is very kind."
+  },
+  {
+    "id": "053",
+    "chamorro": "tåta",
+    "english": "father / dad",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I tåta-hu trabiha nå'yi.",
+    "example_english": "My father is still working."
+  },
+  {
+    "id": "054",
+    "chamorro": "che'lu",
+    "english": "sibling (brother or sister)",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Dos che'lu-hu.",
+    "example_english": "I have two siblings."
+  },
+  {
+    "id": "055",
+    "chamorro": "che'lu låhi",
+    "english": "brother",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Hågu i che'lu låhi-hu.",
+    "example_english": "You are my brother."
+  },
+  {
+    "id": "056",
+    "chamorro": "che'lu palåo'an",
+    "english": "sister",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Guåho i che'lu palåo'an.",
+    "example_english": "I am the sister."
+  },
+  {
+    "id": "057",
+    "chamorro": "gåga' siha",
+    "english": "grandparents",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I gåga' siha-hu gof kåsi.",
+    "example_english": "My grandparents are very old."
+  },
+  {
+    "id": "058",
+    "chamorro": "bihu",
+    "english": "grandfather / old man",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I bihu-hu gof makkat.",
+    "example_english": "My grandfather is very strong."
+  },
+  {
+    "id": "059",
+    "chamorro": "biha",
+    "english": "grandmother / old woman",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I biha-hu gof tunas.",
+    "example_english": "My grandmother is very sweet."
+  },
+  {
+    "id": "060",
+    "chamorro": "patgon",
+    "english": "child",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håcha patgon.",
+    "example_english": "One child."
+  },
+  {
+    "id": "061",
+    "chamorro": "siha",
+    "english": "they / them / plural marker",
+    "category": "family",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Siha man malångo.",
+    "example_english": "They are sick."
+  },
+  {
+    "id": "062",
+    "chamorro": "påle'",
+    "english": "priest / uncle (respectful)",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I påle' misa.",
+    "example_english": "The priest is saying mass."
+  },
+  {
+    "id": "063",
+    "chamorro": "tun",
+    "english": "uncle / respectful address for older man",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Tun Jose gof måtto.",
+    "example_english": "Uncle Jose came."
+  },
+  {
+    "id": "064",
+    "chamorro": "nåna biha",
+    "english": "great-grandmother",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I nåna biha-hu guihi.",
+    "example_english": "My great-grandmother is there."
+  },
+  {
+    "id": "065",
+    "chamorro": "asagua",
+    "english": "spouse / husband or wife",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I asagua-hu gof bonita.",
+    "example_english": "My spouse is very beautiful."
+  },
+  {
+    "id": "066",
+    "chamorro": "ihu",
+    "english": "son",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "I ihu-hu estudia.",
+    "example_english": "My son is studying."
+  },
+  {
+    "id": "067",
+    "chamorro": "låhi",
+    "english": "boy / male",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Låhi si Carlos.",
+    "example_english": "Carlos is a boy."
+  },
+  {
+    "id": "068",
+    "chamorro": "palåo'an",
+    "english": "woman / female",
+    "category": "family",
+    "part_of_speech": "noun",
+    "example_chamorro": "Palåo'an si Ana.",
+    "example_english": "Ana is a woman."
+  },
+  {
+    "id": "069",
+    "chamorro": "mañaina",
+    "english": "food / meal",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håfa mañaina-ta?",
+    "example_english": "What is our food?"
+  },
+  {
+    "id": "070",
+    "chamorro": "kånno'",
+    "english": "to eat",
+    "category": "food",
+    "part_of_speech": "verb",
+    "example_chamorro": "Un kånno' ha'?",
+    "example_english": "Did you eat?"
+  },
+  {
+    "id": "071",
+    "chamorro": "niyok",
+    "english": "coconut",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Chå'guan niyok.",
+    "example_english": "A coconut palm."
+  },
+  {
+    "id": "072",
+    "chamorro": "kelaguen",
+    "english": "kelaguen (marinated meat dish)",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bula kelaguen mannok.",
+    "example_english": "Lots of chicken kelaguen."
+  },
+  {
+    "id": "073",
+    "chamorro": "titiyas",
+    "english": "tortilla-like flatbread",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masnak i titiyas.",
+    "example_english": "The titiyas is ready."
+  },
+  {
+    "id": "074",
+    "chamorro": "åhu",
+    "english": "garlic",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Dangkolu åhu.",
+    "example_english": "Big garlic."
+  },
+  {
+    "id": "075",
+    "chamorro": "lemmai",
+    "english": "breadfruit",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masnek i lemmai.",
+    "example_english": "The breadfruit is cooked."
+  },
+  {
+    "id": "076",
+    "chamorro": "fanihi",
+    "english": "fruit bat (traditional food)",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Makhnas fanihi.",
+    "example_english": "Flying fox (fruit bat)."
+  },
+  {
+    "id": "077",
+    "chamorro": "peskao",
+    "english": "fish",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Gof nånå'on i peskao.",
+    "example_english": "The fish is very fresh."
+  },
+  {
+    "id": "078",
+    "chamorro": "manå'lu",
+    "english": "to drink",
+    "category": "food",
+    "part_of_speech": "verb",
+    "example_chamorro": "Manå'lu hao ha'?",
+    "example_english": "Did you drink?"
+  },
+  {
+    "id": "079",
+    "chamorro": "hånom",
+    "english": "water",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Nå'i yo' hånom.",
+    "example_english": "Give me water."
+  },
+  {
+    "id": "080",
+    "chamorro": "chå",
+    "english": "tea",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Nå'i yo' chå.",
+    "example_english": "Give me tea."
+  },
+  {
+    "id": "081",
+    "chamorro": "kafé",
+    "english": "coffee",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Gof manåsa kafé.",
+    "example_english": "Very hot coffee."
+  },
+  {
+    "id": "082",
+    "chamorro": "åtsan",
+    "english": "rice",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masnak i åtsan.",
+    "example_english": "The rice is cooked."
+  },
+  {
+    "id": "083",
+    "chamorro": "åpas",
+    "english": "taro",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Tunas i åpas.",
+    "example_english": "Sweet taro."
+  },
+  {
+    "id": "084",
+    "chamorro": "minagof",
+    "english": "delicious / happiness",
+    "category": "food",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Gof minagof i kånno'.",
+    "example_english": "The food is very delicious."
+  },
+  {
+    "id": "085",
+    "chamorro": "mannok",
+    "english": "chicken",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Kelaguen mannok.",
+    "example_english": "Chicken kelaguen."
+  },
+  {
+    "id": "086",
+    "chamorro": "babui",
+    "english": "pork / pig",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Kånnon babui.",
+    "example_english": "Eat pork."
+  },
+  {
+    "id": "087",
+    "chamorro": "diha",
+    "english": "day",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håyi na diha?",
+    "example_english": "What day is it?"
+  },
+  {
+    "id": "088",
+    "chamorro": "simåna",
+    "english": "week",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håyi na simåna?",
+    "example_english": "What week is it?"
+  },
+  {
+    "id": "089",
+    "chamorro": "mes",
+    "english": "month",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håyi na mes?",
+    "example_english": "What month is it?"
+  },
+  {
+    "id": "090",
+    "chamorro": "åñu",
+    "english": "year",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håyi na åñu?",
+    "example_english": "What year is it?"
+  },
+  {
+    "id": "091",
+    "chamorro": "oran",
+    "english": "hour / time",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håyi oran?",
+    "example_english": "What time is it?"
+  },
+  {
+    "id": "092",
+    "chamorro": "minutos",
+    "english": "minutes",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Kinse minutos.",
+    "example_english": "Fifteen minutes."
+  },
+  {
+    "id": "093",
+    "chamorro": "påtgun",
+    "english": "morning",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Agupa' ni påtgun.",
+    "example_english": "Tomorrow morning."
+  },
+  {
+    "id": "094",
+    "chamorro": "tådes",
+    "english": "afternoon",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Esta i tådes.",
+    "example_english": "It is afternoon."
+  },
+  {
+    "id": "095",
+    "chamorro": "puengi",
+    "english": "night",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Annai puengi.",
+    "example_english": "During the night."
+  },
+  {
+    "id": "096",
+    "chamorro": "agupa'",
+    "english": "tomorrow",
+    "category": "time",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Hu cho'gue agupa'.",
+    "example_english": "I will do it tomorrow."
+  },
+  {
+    "id": "097",
+    "chamorro": "nigap",
+    "english": "yesterday",
+    "category": "time",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Nigap in fanda.",
+    "example_english": "Yesterday we went out."
+  },
+  {
+    "id": "098",
+    "chamorro": "på'go",
+    "english": "now / today",
+    "category": "time",
+    "part_of_speech": "adverb",
+    "example_chamorro": "På'go i tiempo.",
+    "example_english": "Now is the time."
+  },
+  {
+    "id": "099",
+    "chamorro": "lunes",
+    "english": "Monday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Lunes i primera diha.",
+    "example_english": "Monday is the first day."
+  },
+  {
+    "id": "100",
+    "chamorro": "mårtes",
+    "english": "Tuesday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Mårtes na eskuela.",
+    "example_english": "School on Tuesday."
+  },
+  {
+    "id": "101",
+    "chamorro": "metkoles",
+    "english": "Wednesday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Metkoles na trabåho.",
+    "example_english": "Work on Wednesday."
+  },
+  {
+    "id": "102",
+    "chamorro": "huebes",
+    "english": "Thursday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Huebes na nå'yi.",
+    "example_english": "Thursday at work."
+  },
+  {
+    "id": "103",
+    "chamorro": "betnes",
+    "english": "Friday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Betnes na fine'nana.",
+    "example_english": "Friday evening."
+  },
+  {
+    "id": "104",
+    "chamorro": "såbalo",
+    "english": "Saturday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Såbalo na pika.",
+    "example_english": "Picnic on Saturday."
+  },
+  {
+    "id": "105",
+    "chamorro": "damenggo",
+    "english": "Sunday",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Damenggo na misa.",
+    "example_english": "Sunday Mass."
+  },
+  {
+    "id": "106",
+    "chamorro": "eneru",
+    "english": "January",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Eneru na åñu nuebu.",
+    "example_english": "January, the new year."
+  },
+  {
+    "id": "107",
+    "chamorro": "febreru",
+    "english": "February",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Febreru na lamlam.",
+    "example_english": "February is lightning season."
+  },
+  {
+    "id": "108",
+    "chamorro": "måtso",
+    "english": "March",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Måtso na tiempo.",
+    "example_english": "March weather."
+  },
+  {
+    "id": "109",
+    "chamorro": "åbrit",
+    "english": "April",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Åbrit na fanuchånan.",
+    "example_english": "April rainy season."
+  },
+  {
+    "id": "110",
+    "chamorro": "mayu",
+    "english": "May",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Mayu na flores.",
+    "example_english": "May flowers."
+  },
+  {
+    "id": "111",
+    "chamorro": "huniu",
+    "english": "June",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Huniu na tiempon åno.",
+    "example_english": "June dry season."
+  },
+  {
+    "id": "112",
+    "chamorro": "hulio",
+    "english": "July",
+    "category": "time",
+    "part_of_speech": "noun",
+    "example_chamorro": "Hulio na fiesta.",
+    "example_english": "July fiesta."
+  },
+  {
+    "id": "113",
+    "chamorro": "cho'gue",
+    "english": "to do / to make",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Hu cho'gue i trabåhu.",
+    "example_english": "I do the work."
+  },
+  {
+    "id": "114",
+    "chamorro": "fanda",
+    "english": "to go",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Månu hao fumånda?",
+    "example_english": "Where are you going?"
+  },
+  {
+    "id": "115",
+    "chamorro": "måtto",
+    "english": "to come",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Måttohao!",
+    "example_english": "Come here!"
+  },
+  {
+    "id": "116",
+    "chamorro": "egga'",
+    "english": "to see / to look",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Håfa un egga'?",
+    "example_english": "What do you see?"
+  },
+  {
+    "id": "117",
+    "chamorro": "hungok",
+    "english": "to hear / to listen",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Un hungok i kåntan?",
+    "example_english": "Do you hear the song?"
+  },
+  {
+    "id": "118",
+    "chamorro": "sangan",
+    "english": "to say / to tell",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Håfa un sangan?",
+    "example_english": "What did you say?"
+  },
+  {
+    "id": "119",
+    "chamorro": "nå'yi",
+    "english": "to give",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Nå'yi yo' hånom.",
+    "example_english": "Give me water."
+  },
+  {
+    "id": "120",
+    "chamorro": "taitai",
+    "english": "to read",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Taitai i lepblo.",
+    "example_english": "Read the book."
+  },
+  {
+    "id": "121",
+    "chamorro": "tutuhon",
+    "english": "to begin / to start",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Tutuhon ta fanestudiya.",
+    "example_english": "Let's start studying."
+  },
+  {
+    "id": "122",
+    "chamorro": "para",
+    "english": "to stop / for",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Para yo' un ratu.",
+    "example_english": "Stop for a moment."
+  },
+  {
+    "id": "123",
+    "chamorro": "håtsa",
+    "english": "to raise / to lift",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Håtsa i kannai-mu.",
+    "example_english": "Raise your hand."
+  },
+  {
+    "id": "124",
+    "chamorro": "li'e'",
+    "english": "to see (perfective)",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "In li'e' si Juan.",
+    "example_english": "We saw Juan."
+  },
+  {
+    "id": "125",
+    "chamorro": "bula",
+    "english": "many / a lot",
+    "category": "verbs",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Bula taotao guini.",
+    "example_english": "Many people here."
+  },
+  {
+    "id": "126",
+    "chamorro": "nå'i",
+    "english": "to give (imperative)",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Nå'i yo' ennao.",
+    "example_english": "Give me that."
+  },
+  {
+    "id": "127",
+    "chamorro": "maolekña",
+    "english": "better / it would be better",
+    "category": "verbs",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Maolekña un hanao.",
+    "example_english": "It would be better if you go."
+  },
+  {
+    "id": "128",
+    "chamorro": "guaiya",
+    "english": "to love",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Hu guaiya hao.",
+    "example_english": "I love you."
+  },
+  {
+    "id": "129",
+    "chamorro": "a'gang",
+    "english": "to call / to shout",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "A'gang yo' agupa'.",
+    "example_english": "Call me tomorrow."
+  },
+  {
+    "id": "130",
+    "chamorro": "hanao",
+    "english": "to leave / to go away",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Humanao i lahi.",
+    "example_english": "The boy left."
+  },
+  {
+    "id": "131",
+    "chamorro": "kannai",
+    "english": "hand",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Håtsa i kannai-mu.",
+    "example_english": "Raise your hand."
+  },
+  {
+    "id": "132",
+    "chamorro": "nigo'",
+    "english": "neck",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Maknganiti i nigo'.",
+    "example_english": "The neck is sore."
+  },
+  {
+    "id": "133",
+    "chamorro": "ulu",
+    "english": "head",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masaki i ulu-hu.",
+    "example_english": "My head hurts."
+  },
+  {
+    "id": "134",
+    "chamorro": "mata",
+    "english": "eye / face",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bonita i mata-mu.",
+    "example_english": "Your face is beautiful."
+  },
+  {
+    "id": "135",
+    "chamorro": "pachot",
+    "english": "mouth",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Tåpbla i pachot-mu.",
+    "example_english": "Close your mouth."
+  },
+  {
+    "id": "136",
+    "chamorro": "talanga",
+    "english": "ear",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masaki i talanga-hu.",
+    "example_english": "My ear hurts."
+  },
+  {
+    "id": "137",
+    "chamorro": "nifen",
+    "english": "tooth / teeth",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bonitu i nifen-mu.",
+    "example_english": "Your teeth are nice."
+  },
+  {
+    "id": "138",
+    "chamorro": "addeng",
+    "english": "foot / leg",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masaki i addeng-hu.",
+    "example_english": "My foot hurts."
+  },
+  {
+    "id": "139",
+    "chamorro": "tuyan",
+    "english": "stomach / belly",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masaki i tuyan-hu.",
+    "example_english": "My stomach hurts."
+  },
+  {
+    "id": "140",
+    "chamorro": "sineku",
+    "english": "back (body)",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masaki i sineku-hu.",
+    "example_english": "My back hurts."
+  },
+  {
+    "id": "141",
+    "chamorro": "suruhånu",
+    "english": "doctor / healer",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Fanhuyong i suruhånu.",
+    "example_english": "The doctor came out."
+  },
+  {
+    "id": "142",
+    "chamorro": "malångo",
+    "english": "sick / ill",
+    "category": "body",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Malångo yo'.",
+    "example_english": "I am sick."
+  },
+  {
+    "id": "143",
+    "chamorro": "masaki",
+    "english": "to hurt / painful",
+    "category": "body",
+    "part_of_speech": "verb",
+    "example_chamorro": "Masaki i ulu-hu.",
+    "example_english": "My head hurts."
+  },
+  {
+    "id": "145",
+    "chamorro": "nå'ye",
+    "english": "nose",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Dångkolu i nå'ye-mu.",
+    "example_english": "Your nose is big."
+  },
+  {
+    "id": "146",
+    "chamorro": "pecho",
+    "english": "chest",
+    "category": "body",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masaki i pecho-hu.",
+    "example_english": "My chest hurts."
+  },
+  {
+    "id": "147",
+    "chamorro": "Guåhan",
+    "english": "Guam",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Guåhan i tano'-ta.",
+    "example_english": "Guam is our land."
+  },
+  {
+    "id": "148",
+    "chamorro": "tano'",
+    "english": "land / earth / country",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "I tano'-ta.",
+    "example_english": "Our land."
+  },
+  {
+    "id": "149",
+    "chamorro": "tåsi",
+    "english": "sea / ocean",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bonitu i tåsi.",
+    "example_english": "The ocean is beautiful."
+  },
+  {
+    "id": "150",
+    "chamorro": "halom tåno'",
+    "english": "jungle / forest / inland",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Fanhanao ta halom tåno'.",
+    "example_english": "Let's go to the jungle."
+  },
+  {
+    "id": "151",
+    "chamorro": "saddok",
+    "english": "river",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Maolek hånom i saddok.",
+    "example_english": "The river water is good."
+  },
+  {
+    "id": "152",
+    "chamorro": "plåsa",
+    "english": "plaza / town square",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Ma'pos ta plåsa.",
+    "example_english": "We passed the plaza."
+  },
+  {
+    "id": "153",
+    "chamorro": "guma'",
+    "english": "house / home",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Hu hånao ta guma'.",
+    "example_english": "I went home."
+  },
+  {
+    "id": "154",
+    "chamorro": "tenda",
+    "english": "store / shop",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Hu hanao tenda.",
+    "example_english": "I went to the store."
+  },
+  {
+    "id": "155",
+    "chamorro": "eskuela",
+    "english": "school",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Manhånao i påtgon ta eskuela.",
+    "example_english": "The children went to school."
+  },
+  {
+    "id": "156",
+    "chamorro": "simbålu",
+    "english": "church",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Manmisa ta simbålu.",
+    "example_english": "We attended mass at church."
+  },
+  {
+    "id": "157",
+    "chamorro": "åcho'",
+    "english": "rock / stone",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Latte stone åcho'.",
+    "example_english": "Latte stones."
+  },
+  {
+    "id": "158",
+    "chamorro": "hiyong",
+    "english": "outside",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Fanhanao hiyong.",
+    "example_english": "Go outside."
+  },
+  {
+    "id": "159",
+    "chamorro": "halom",
+    "english": "inside / into",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Falågu halom.",
+    "example_english": "Run inside."
+  },
+  {
+    "id": "160",
+    "chamorro": "hulo'",
+    "english": "up / upward",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Hanao hulo'.",
+    "example_english": "Go up."
+  },
+  {
+    "id": "161",
+    "chamorro": "papa'",
+    "english": "down / downward",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Hanao papa'.",
+    "example_english": "Go down."
+  },
+  {
+    "id": "162",
+    "chamorro": "as tåtte",
+    "english": "behind / back",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Guihi as tåtte.",
+    "example_english": "It's behind there."
+  },
+  {
+    "id": "163",
+    "chamorro": "guato",
+    "english": "over there / to that place",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Hanao guato.",
+    "example_english": "Go over there."
+  },
+  {
+    "id": "164",
+    "chamorro": "guini",
+    "english": "here / at this place",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Nnofo guini.",
+    "example_english": "Stay here."
+  },
+  {
+    "id": "165",
+    "chamorro": "guihi",
+    "english": "there / at that place",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Guaha guihi.",
+    "example_english": "There is something there."
+  },
+  {
+    "id": "166",
+    "chamorro": "månu",
+    "english": "where",
+    "category": "places",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Månu hao?",
+    "example_english": "Where are you?"
+  },
+  {
+    "id": "167",
+    "chamorro": "guåho",
+    "english": "I / me",
+    "category": "grammar",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Guåho si Maria.",
+    "example_english": "I am Maria."
+  },
+  {
+    "id": "168",
+    "chamorro": "hågu",
+    "english": "you (singular)",
+    "category": "grammar",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Hågu si Pedro?",
+    "example_english": "Are you Pedro?"
+  },
+  {
+    "id": "169",
+    "chamorro": "giya",
+    "english": "at / in (locative)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Giya Guåhan.",
+    "example_english": "In Guam."
+  },
+  {
+    "id": "170",
+    "chamorro": "si",
+    "english": "personal article (for names)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Si Juan.",
+    "example_english": "Juan (personal article)."
+  },
+  {
+    "id": "171",
+    "chamorro": "i",
+    "english": "the (definite article)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "I lepblo.",
+    "example_english": "The book."
+  },
+  {
+    "id": "172",
+    "chamorro": "na",
+    "english": "that (linker)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Bonitu na flores.",
+    "example_english": "That beautiful flower."
+  },
+  {
+    "id": "173",
+    "chamorro": "yan",
+    "english": "and / with",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Guåho yan hågu.",
+    "example_english": "Me and you."
+  },
+  {
+    "id": "174",
+    "chamorro": "lao",
+    "english": "but / however",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Maolek lao masaki.",
+    "example_english": "Good but sick."
+  },
+  {
+    "id": "175",
+    "chamorro": "put",
+    "english": "because of / about",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Hu cho'gue put hågu.",
+    "example_english": "I did it because of you."
+  },
+  {
+    "id": "176",
+    "chamorro": "gi",
+    "english": "at / in / on (common locative)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Gi guma'.",
+    "example_english": "At home."
+  },
+  {
+    "id": "177",
+    "chamorro": "ta",
+    "english": "we / our (inclusive)",
+    "category": "grammar",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Tåno'-ta.",
+    "example_english": "Our land."
+  },
+  {
+    "id": "178",
+    "chamorro": "in",
+    "english": "we (exclusive) / subject marker",
+    "category": "grammar",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "In fanda.",
+    "example_english": "We went (excluding listener)."
+  },
+  {
+    "id": "179",
+    "chamorro": "gof",
+    "english": "very / really (intensifier)",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Gof maolek.",
+    "example_english": "Very good."
+  },
+  {
+    "id": "180",
+    "chamorro": "ti",
+    "english": "not (negation)",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Ti maolek.",
+    "example_english": "Not good."
+  },
+  {
+    "id": "181",
+    "chamorro": "ha'",
+    "english": "already / indeed (particle)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Hu cho'gue ha'.",
+    "example_english": "I already did it."
+  },
+  {
+    "id": "182",
+    "chamorro": "nai",
+    "english": "here (emphatic) / that",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Guini nai.",
+    "example_english": "Right here."
+  },
+  {
+    "id": "183",
+    "chamorro": "enao",
+    "english": "that (near you)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Håfa enao?",
+    "example_english": "What is that?"
+  },
+  {
+    "id": "184",
+    "chamorro": "este",
+    "english": "this",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Håfa este?",
+    "example_english": "What is this?"
+  },
+  {
+    "id": "185",
+    "chamorro": "annai",
+    "english": "when / while / at the time",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Annai malångo yo'.",
+    "example_english": "When I was sick."
+  },
+  {
+    "id": "187",
+    "chamorro": "nu",
+    "english": "with / by (object marker)",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Guåho nu hågu.",
+    "example_english": "Me with you."
+  },
+  {
+    "id": "188",
+    "chamorro": "mangganna",
+    "english": "to win",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "In mangganna i gemu.",
+    "example_english": "We won the game."
+  },
+  {
+    "id": "189",
+    "chamorro": "atan",
+    "english": "to look at",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Atan guini.",
+    "example_english": "Look here."
+  },
+  {
+    "id": "190",
+    "chamorro": "sotta",
+    "english": "to release / let go",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Sotta yo'.",
+    "example_english": "Let me go."
+  },
+  {
+    "id": "191",
+    "chamorro": "tungo'",
+    "english": "to know",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Ti hu tungo'.",
+    "example_english": "I don't know."
+  },
+  {
+    "id": "192",
+    "chamorro": "tingo'",
+    "english": "to know (variant)",
+    "category": "verbs",
+    "part_of_speech": "verb",
+    "example_chamorro": "Tingo' hao?",
+    "example_english": "Do you know?"
+  },
+  {
+    "id": "193",
+    "chamorro": "dångkolu",
+    "english": "big / large",
+    "category": "grammar",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Dångkolu i guma'.",
+    "example_english": "The house is big."
+  },
+  {
+    "id": "194",
+    "chamorro": "kikiu",
+    "english": "small / little",
+    "category": "grammar",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Kikiu i paluma.",
+    "example_english": "The bird is small."
+  },
+  {
+    "id": "195",
+    "chamorro": "åmko'",
+    "english": "old (person) / elder",
+    "category": "grammar",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Åmko' i bihu.",
+    "example_english": "The grandfather is old."
+  },
+  {
+    "id": "196",
+    "chamorro": "hoben",
+    "english": "young",
+    "category": "grammar",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Hoben i palåo'an.",
+    "example_english": "The woman is young."
+  },
+  {
+    "id": "197",
+    "chamorro": "bonita / bonitu",
+    "english": "beautiful / pretty",
+    "category": "grammar",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Bonita i flores.",
+    "example_english": "The flower is beautiful."
+  },
+  {
+    "id": "198",
+    "chamorro": "CHamoru",
+    "english": "Chamorro (person / language)",
+    "category": "grammar",
+    "part_of_speech": "noun",
+    "example_chamorro": "Guåho CHamoru.",
+    "example_english": "I am Chamorro."
+  },
+  {
+    "id": "199",
+    "chamorro": "fino' CHamoru",
+    "english": "Chamorro language",
+    "category": "grammar",
+    "part_of_speech": "noun",
+    "example_chamorro": "Hu tataitai i fino' CHamoru.",
+    "example_english": "I read the Chamorro language."
+  },
+  {
+    "id": "200",
+    "chamorro": "finu'",
+    "english": "word / language",
+    "category": "grammar",
+    "part_of_speech": "noun",
+    "example_chamorro": "Gof maolek i finu'-mu.",
+    "example_english": "Your words are very good."
+  },
+  {
+    "id": "201",
+    "chamorro": "guaha",
+    "english": "there is / there are / to have",
+    "category": "grammar",
+    "part_of_speech": "verb",
+    "example_chamorro": "Guaha hånom.",
+    "example_english": "There is water."
+  },
+  {
+    "id": "202",
+    "chamorro": "ti guaha",
+    "english": "there is not / does not have",
+    "category": "grammar",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Ti guaha hånom.",
+    "example_english": "There is no water."
+  },
+  {
+    "id": "204",
+    "chamorro": "taotao",
+    "english": "person / people",
+    "category": "grammar",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bula taotao.",
+    "example_english": "Many people."
+  },
+  {
+    "id": "205",
+    "chamorro": "paluma",
+    "english": "bird",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Mångge i paluma?",
+    "example_english": "Where is the bird?"
+  },
+  {
+    "id": "206",
+    "chamorro": "katu",
+    "english": "cat",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "I katu guini.",
+    "example_english": "The cat is here."
+  },
+  {
+    "id": "207",
+    "chamorro": "ga'lågu",
+    "english": "dog",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Dångkolu i ga'lågu.",
+    "example_english": "The dog is big."
+  },
+  {
+    "id": "208",
+    "chamorro": "kåyu",
+    "english": "tree",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bunita i kåyu.",
+    "example_english": "The tree is beautiful."
+  },
+  {
+    "id": "209",
+    "chamorro": "flores",
+    "english": "flower",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bonitu i flores.",
+    "example_english": "The flower is beautiful."
+  },
+  {
+    "id": "210",
+    "chamorro": "langet",
+    "english": "sky / heaven",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Asut i langet.",
+    "example_english": "The sky is blue."
+  },
+  {
+    "id": "211",
+    "chamorro": "atdao",
+    "english": "sun",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bunitu i atdao.",
+    "example_english": "The sun is beautiful."
+  },
+  {
+    "id": "212",
+    "chamorro": "pulan",
+    "english": "moon",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bunitu i pulan.",
+    "example_english": "The moon is beautiful."
+  },
+  {
+    "id": "213",
+    "chamorro": "bettan",
+    "english": "star",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bula bettan gi puengi.",
+    "example_english": "Many stars at night."
+  },
+  {
+    "id": "214",
+    "chamorro": "uchan",
+    "english": "rain",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Måtto i uchan.",
+    "example_english": "The rain came."
+  },
+  {
+    "id": "215",
+    "chamorro": "manglo'",
+    "english": "wind",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Makkat i manglo'.",
+    "example_english": "The wind is strong."
+  },
+  {
+    "id": "216",
+    "chamorro": "nubes",
+    "english": "cloud",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Åpaka' i nubes.",
+    "example_english": "The cloud is white."
+  },
+  {
+    "id": "217",
+    "chamorro": "guåfi",
+    "english": "fire",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Makkat i guåfi.",
+    "example_english": "The fire is strong."
+  },
+  {
+    "id": "219",
+    "chamorro": "lepblo",
+    "english": "book",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Taitai i lepblo.",
+    "example_english": "Read the book."
+  },
+  {
+    "id": "220",
+    "chamorro": "kånnon",
+    "english": "eat! (imperative)",
+    "category": "food",
+    "part_of_speech": "verb",
+    "example_chamorro": "Kånnon ha'!",
+    "example_english": "Eat already!"
+  },
+  {
+    "id": "221",
+    "chamorro": "mapotge'",
+    "english": "spicy / hot (food)",
+    "category": "food",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Mapotge' i donne'.",
+    "example_english": "The pepper is spicy."
+  },
+  {
+    "id": "222",
+    "chamorro": "donne'",
+    "english": "hot pepper / chili",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Mapotge' i donne'.",
+    "example_english": "The chili is hot."
+  },
+  {
+    "id": "223",
+    "chamorro": "fina'denne'",
+    "english": "coconut cream sauce / Chamorro condiment",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Nå'i yo' fina'denne'.",
+    "example_english": "Give me the Chamorro sauce."
+  },
+  {
+    "id": "224",
+    "chamorro": "hineksa'",
+    "english": "cooked rice",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Masnak i hineksa'.",
+    "example_english": "The cooked rice is ready."
+  },
+  {
+    "id": "225",
+    "chamorro": "åchoti",
+    "english": "annatto / achiote (red spice)",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Agaga' i åchoti.",
+    "example_english": "The annatto is red."
+  },
+  {
+    "id": "226",
+    "chamorro": "manåhak",
+    "english": "smoked / grilled (fish preparation)",
+    "category": "food",
+    "part_of_speech": "adjective",
+    "example_chamorro": "Manåhak peskao.",
+    "example_english": "Smoked fish."
+  },
+  {
+    "id": "227",
+    "chamorro": "chalakilis",
+    "english": "corn soup (traditional)",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Gof minagof i chalakilis.",
+    "example_english": "The corn soup is delicious."
+  },
+  {
+    "id": "228",
+    "chamorro": "lusong",
+    "english": "mortar and pestle",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Un chagi i lusong.",
+    "example_english": "Try the mortar and pestle."
+  },
+  {
+    "id": "229",
+    "chamorro": "Saipan",
+    "english": "Saipan (island in CNMI)",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Giya Saipan.",
+    "example_english": "In Saipan."
+  },
+  {
+    "id": "230",
+    "chamorro": "Luta",
+    "english": "Rota (island in CNMI)",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Gof bunita i Luta.",
+    "example_english": "Rota is very beautiful."
+  },
+  {
+    "id": "231",
+    "chamorro": "Tinian",
+    "english": "Tinian (island in CNMI)",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Giya Tinian.",
+    "example_english": "In Tinian."
+  },
+  {
+    "id": "232",
+    "chamorro": "Mariånas",
+    "english": "Mariana Islands",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Tano' Mariånas.",
+    "example_english": "Land of the Marianas."
+  },
+  {
+    "id": "233",
+    "chamorro": "latte",
+    "english": "latte stone (ancient pillar)",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Bunitu i latte.",
+    "example_english": "The latte stone is beautiful."
+  },
+  {
+    "id": "234",
+    "chamorro": "taotao mo'na",
+    "english": "ancestors / ancient people",
+    "category": "grammar",
+    "part_of_speech": "noun",
+    "example_chamorro": "I taotao mo'na.",
+    "example_english": "The ancestors (ancient ones)."
+  },
+  {
+    "id": "235",
+    "chamorro": "respetu",
+    "english": "respect",
+    "category": "grammar",
+    "part_of_speech": "noun",
+    "example_chamorro": "Gof importånte i respetu.",
+    "example_english": "Respect is very important."
+  },
+  {
+    "id": "236",
+    "chamorro": "man-mami",
+    "english": "ours (exclusive plural)",
+    "category": "grammar",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Guma' man-mami.",
+    "example_english": "Our house (not yours)."
+  },
+  {
+    "id": "237",
+    "chamorro": "i sena",
+    "english": "dinner / supper",
+    "category": "food",
+    "part_of_speech": "noun",
+    "example_chamorro": "Manaitai ta i sena.",
+    "example_english": "Let's eat dinner."
+  },
+  {
+    "id": "238",
+    "chamorro": "amånu",
+    "english": "where (interrogative)",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Amånu para un hanao?",
+    "example_english": "Where are you going?"
+  },
+  {
+    "id": "239",
+    "chamorro": "håyi",
+    "english": "who",
+    "category": "grammar",
+    "part_of_speech": "pronoun",
+    "example_chamorro": "Håyi enao?",
+    "example_english": "Who is that?"
+  },
+  {
+    "id": "240",
+    "chamorro": "taimanu",
+    "english": "how",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Taimanu un cho'gue?",
+    "example_english": "How did you do it?"
+  },
+  {
+    "id": "241",
+    "chamorro": "kuånto",
+    "english": "how much / how many",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Kuånto i presiu?",
+    "example_english": "How much is the price?"
+  },
+  {
+    "id": "244",
+    "chamorro": "trabiha",
+    "english": "still / yet",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Trabiha esta.",
+    "example_english": "Still here."
+  },
+  {
+    "id": "245",
+    "chamorro": "esta",
+    "english": "already / now",
+    "category": "grammar",
+    "part_of_speech": "adverb",
+    "example_chamorro": "Esta masnak.",
+    "example_english": "Already cooked."
+  },
+  {
+    "id": "246",
+    "chamorro": "manmamaolek",
+    "english": "doing well / getting better",
+    "category": "greetings",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Manmamaolek hit.",
+    "example_english": "We are all doing well."
+  },
+  {
+    "id": "247",
+    "chamorro": "nå'iyo",
+    "english": "give me",
+    "category": "verbs",
+    "part_of_speech": "phrase",
+    "example_chamorro": "Nå'iyo hånom.",
+    "example_english": "Give me water."
+  },
+  {
+    "id": "248",
+    "chamorro": "pago",
+    "english": "pay / price",
+    "category": "places",
+    "part_of_speech": "noun",
+    "example_chamorro": "Kuånto i pago?",
+    "example_english": "What is the price?"
+  },
+  {
+    "id": "249",
+    "chamorro": "åmigon",
+    "english": "friend (male)",
+    "category": "greetings",
+    "part_of_speech": "noun",
+    "example_chamorro": "Si Juan i åmigon-hu.",
+    "example_english": "Juan is my friend."
+  },
+  {
+    "id": "250",
+    "chamorro": "amiga",
+    "english": "friend (female)",
+    "category": "greetings",
+    "part_of_speech": "noun",
+    "example_chamorro": "Si Ana i amiga-hu.",
+    "example_english": "Ana is my friend."
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "p001",
+    "category": "greetings",
+    "chamorro": "Håfa adai!",
+    "english": "Hello! / Welcome!",
+    "romanization": "HAH-fah ah-DYE",
+    "context": "Universal greeting — the most iconic Chamorro phrase"
+  },
+  {
+    "id": "p002",
+    "category": "greetings",
+    "chamorro": "Håfa tatamanu hao?",
+    "english": "How are you?",
+    "romanization": "HAH-fah tah-tah-MAH-noo how",
+    "context": "Casual greeting to a friend or acquaintance"
+  },
+  {
+    "id": "p003",
+    "category": "greetings",
+    "chamorro": "Maolek yo', si yu'us ma'åse'.",
+    "english": "I'm fine, thank you.",
+    "romanization": "mow-LEK yo, see YOO-us mah-AH-seh",
+    "context": "Standard polite response to 'How are you?'"
+  },
+  {
+    "id": "p004",
+    "category": "greetings",
+    "chamorro": "Håfa na'an-mu?",
+    "english": "What is your name?",
+    "romanization": "HAH-fah nah-ahn-MOO",
+    "context": "Meeting someone for the first time"
+  },
+  {
+    "id": "p005",
+    "category": "greetings",
+    "chamorro": "Si [name] yo'.",
+    "english": "I am [name].",
+    "romanization": "see [name] yo",
+    "context": "Introducing yourself by name"
+  },
+  {
+    "id": "p006",
+    "category": "greetings",
+    "chamorro": "Si yu'us ma'åse'!",
+    "english": "Thank you!",
+    "romanization": "see YOO-us mah-AH-seh",
+    "context": "Expressing gratitude in any situation"
+  },
+  {
+    "id": "p007",
+    "category": "greetings",
+    "chamorro": "Ti nahong.",
+    "english": "You're welcome. / It's nothing.",
+    "romanization": "tee NAH-hong",
+    "context": "Response to thank you"
+  },
+  {
+    "id": "p008",
+    "category": "greetings",
+    "chamorro": "Asta la proxima.",
+    "english": "Until next time. / See you later.",
+    "romanization": "AH-stah lah PROHK-see-mah",
+    "context": "Saying goodbye with the expectation of seeing each other again"
+  },
+  {
+    "id": "p009",
+    "category": "greetings",
+    "chamorro": "Buenas dias!",
+    "english": "Good morning!",
+    "romanization": "BWEH-nahs DEE-ahs",
+    "context": "Morning greeting"
+  },
+  {
+    "id": "p010",
+    "category": "greetings",
+    "chamorro": "Buenas noches.",
+    "english": "Good night.",
+    "romanization": "BWEH-nahs NOH-ches",
+    "context": "Evening farewell or nighttime greeting"
+  },
+  {
+    "id": "p011",
+    "category": "introductions",
+    "chamorro": "Tåtnåhon guåho CHamoru.",
+    "english": "I am originally Chamorro.",
+    "romanization": "TAHT-nah-hon GWAH-ho CHAH-moh-roo",
+    "context": "Stating your ethnic identity"
+  },
+  {
+    "id": "p012",
+    "category": "introductions",
+    "chamorro": "Giya Guåhan yo' numulågu.",
+    "english": "I grew up in Guam.",
+    "romanization": "GEE-yah GWAH-hahn yo noo-moo-LAH-goo",
+    "context": "Telling someone where you are from"
+  },
+  {
+    "id": "p013",
+    "category": "introductions",
+    "chamorro": "Hu guaiya i fino' CHamoru.",
+    "english": "I love the Chamorro language.",
+    "romanization": "hoo gwah-EE-yah ee FEE-no CHAH-moh-roo",
+    "context": "Expressing enthusiasm for the language"
+  },
+  {
+    "id": "p014",
+    "category": "introductions",
+    "chamorro": "Estoy mama'tinas fino' CHamoru.",
+    "english": "I am learning Chamorro.",
+    "romanization": "es-TOY mah-mah-TEE-nahs FEE-no CHAH-moh-roo",
+    "context": "Telling someone you are a language learner"
+  },
+  {
+    "id": "p015",
+    "category": "food",
+    "chamorro": "Kao siña un nå'i yo' hånom?",
+    "english": "Can you give me water?",
+    "romanization": "kow SEE-nyah oon NAH-ee yo HAH-nom",
+    "context": "Politely asking for water at a restaurant or someone's home"
+  },
+  {
+    "id": "p016",
+    "category": "food",
+    "chamorro": "Un kånno' ha'?",
+    "english": "Did you eat already?",
+    "romanization": "oon KAHN-no hah",
+    "context": "Common informal greeting equivalent to 'Have you eaten?' — shows care for the other person"
+  },
+  {
+    "id": "p017",
+    "category": "food",
+    "chamorro": "Gof minagof i kånno'!",
+    "english": "The food is delicious!",
+    "romanization": "goff mee-NAH-goff ee KAHN-no",
+    "context": "Complimenting someone's cooking"
+  },
+  {
+    "id": "p018",
+    "category": "food",
+    "chamorro": "Biba kelaguen!",
+    "english": "Cheers to kelaguen!",
+    "romanization": "BEE-bah keh-LAH-gwen",
+    "context": "Celebrating Chamorro food"
+  },
+  {
+    "id": "p019",
+    "category": "food",
+    "chamorro": "Nå'i yo' kafé, put fabot.",
+    "english": "Give me coffee, please.",
+    "romanization": "NAH-ee yo kah-FEH poot fah-BOT",
+    "context": "Ordering at a café or asking politely at home"
+  },
+  {
+    "id": "p020",
+    "category": "food",
+    "chamorro": "Mapotge' este!",
+    "english": "This is spicy!",
+    "romanization": "mah-POT-geh ES-teh",
+    "context": "Reacting to spicy food"
+  },
+  {
+    "id": "p021",
+    "category": "directions",
+    "chamorro": "Månu i CR?",
+    "english": "Where is the bathroom?",
+    "romanization": "MAH-noo ee seh-AH-reh",
+    "context": "Asking for the restroom (CR = Comfort Room, local term)"
+  },
+  {
+    "id": "p022",
+    "category": "directions",
+    "chamorro": "Hanao hulo' i chalan.",
+    "english": "Go up the road.",
+    "romanization": "hah-NOW hoo-LO ee CHAH-lahn",
+    "context": "Giving basic directions"
+  },
+  {
+    "id": "p023",
+    "category": "directions",
+    "chamorro": "Gådditen i tenda.",
+    "english": "The store is nearby.",
+    "romanization": "GAHD-dee-ten ee TEN-dah",
+    "context": "Telling someone a location is close"
+  },
+  {
+    "id": "p024",
+    "category": "directions",
+    "chamorro": "Låhat i tenda.",
+    "english": "The store is far.",
+    "romanization": "LAH-haht ee TEN-dah",
+    "context": "Warning that a destination is far away"
+  },
+  {
+    "id": "p025",
+    "category": "directions",
+    "chamorro": "Para månu hao fumånda?",
+    "english": "Where are you going?",
+    "romanization": "PAH-rah MAH-noo how foo-MAHN-dah",
+    "context": "Asking someone their destination — very common in Chamorro conversation"
+  },
+  {
+    "id": "p026",
+    "category": "family",
+    "chamorro": "Hu guaiya i familia-hu.",
+    "english": "I love my family.",
+    "romanization": "hoo gwah-EE-yah ee fah-MEE-lee-yah-hoo",
+    "context": "Expressing love for one's family"
+  },
+  {
+    "id": "p027",
+    "category": "family",
+    "chamorro": "Kuånto åñu-mu?",
+    "english": "How old are you?",
+    "romanization": "KWAHN-toh AH-nyoo-moo",
+    "context": "Asking someone's age"
+  },
+  {
+    "id": "p028",
+    "category": "family",
+    "chamorro": "[Number] åñu yo'.",
+    "english": "I am [number] years old.",
+    "romanization": "[Number] AH-nyoo yo",
+    "context": "Stating your age"
+  },
+  {
+    "id": "p029",
+    "category": "family",
+    "chamorro": "Guaha håfa-na patgon-hu.",
+    "english": "I have [some] children.",
+    "romanization": "GWAH-hah HAH-fah-nah PAHT-gohn-hoo",
+    "context": "Talking about one's children"
+  },
+  {
+    "id": "p030",
+    "category": "emotions",
+    "chamorro": "Hu guaiya hao.",
+    "english": "I love you.",
+    "romanization": "hoo gwah-EE-yah how",
+    "context": "Expressing love to a person"
+  },
+  {
+    "id": "p031",
+    "category": "emotions",
+    "chamorro": "Gof manmagof yo'.",
+    "english": "I am very happy.",
+    "romanization": "goff mahn-mah-GOFF yo",
+    "context": "Expressing happiness"
+  },
+  {
+    "id": "p032",
+    "category": "emotions",
+    "chamorro": "Triste yo'.",
+    "english": "I am sad.",
+    "romanization": "TREES-teh yo",
+    "context": "Expressing sadness"
+  },
+  {
+    "id": "p033",
+    "category": "emotions",
+    "chamorro": "Ti hu tungo'.",
+    "english": "I don't know.",
+    "romanization": "tee hoo TOON-go",
+    "context": "Admitting you don't know something — very common phrase"
+  },
+  {
+    "id": "p034",
+    "category": "emotions",
+    "chamorro": "Hågu hao kumeke'.",
+    "english": "You can do it.",
+    "romanization": "HAH-goo how koo-MEH-keh",
+    "context": "Encouraging someone"
+  },
+  {
+    "id": "p035",
+    "category": "cultural",
+    "chamorro": "Biba CHamoru!",
+    "english": "Long live the Chamorro people!",
+    "romanization": "BEE-bah CHAH-moh-roo",
+    "context": "Cultural pride expression"
+  },
+  {
+    "id": "p036",
+    "category": "cultural",
+    "chamorro": "Guåhan i tano'-ta.",
+    "english": "Guam is our land.",
+    "romanization": "GWAH-hahn ee tah-NO-tah",
+    "context": "Expressing connection to the homeland"
+  },
+  {
+    "id": "p037",
+    "category": "cultural",
+    "chamorro": "Inafa'maolek.",
+    "english": "Interdependence / mutual care / making things good for each other.",
+    "romanization": "ee-nah-fah-mow-LEK",
+    "context": "Core Chamorro cultural value — the spirit of caring for one another"
+  },
+  {
+    "id": "p038",
+    "category": "cultural",
+    "chamorro": "Håfa tatamanu si nåna-mu?",
+    "english": "How is your mother?",
+    "romanization": "HAH-fah tah-tah-MAH-noo see NAH-nah-moo",
+    "context": "Asking about a family member shows respect in Chamorro culture"
+  },
+  {
+    "id": "p039",
+    "category": "cultural",
+    "chamorro": "Man-nå'i hit.",
+    "english": "Let us give to one another.",
+    "romanization": "mahn-NAH-ee heet",
+    "context": "Expressing the spirit of generosity central to Chamorro culture"
+  },
+  {
+    "id": "p040",
+    "category": "health",
+    "chamorro": "Masaki i ulu-hu.",
+    "english": "My head hurts.",
+    "romanization": "mah-SAH-kee ee OO-loo-hoo",
+    "context": "Describing a headache to a doctor or family member"
+  },
+  {
+    "id": "p041",
+    "category": "health",
+    "chamorro": "Malångo yo'.",
+    "english": "I am sick.",
+    "romanization": "mah-LAHNG-oh yo",
+    "context": "Telling someone you are ill"
+  },
+  {
+    "id": "p042",
+    "category": "health",
+    "chamorro": "Maolek yo' på'go.",
+    "english": "I am well now.",
+    "romanization": "mow-LEK yo PAH-go",
+    "context": "Telling someone you have recovered"
+  },
+  {
+    "id": "p043",
+    "category": "numbers",
+    "chamorro": "Kuånto i presiu?",
+    "english": "How much does it cost?",
+    "romanization": "KWAHN-toh ee PREH-see-oo",
+    "context": "Asking the price of something at a market or store"
+  },
+  {
+    "id": "p044",
+    "category": "numbers",
+    "chamorro": "Håyi oran på'go?",
+    "english": "What time is it now?",
+    "romanization": "HAH-yee oh-RAHN PAH-go",
+    "context": "Asking for the current time"
+  },
+  {
+    "id": "p045",
+    "category": "encouragement",
+    "chamorro": "Siguru hao siña.",
+    "english": "You can definitely do it.",
+    "romanization": "see-GOO-roo how SEE-nyah",
+    "context": "Encouraging a language learner"
+  },
+  {
+    "id": "p046",
+    "category": "encouragement",
+    "chamorro": "Dångkolu na siña-mu!",
+    "english": "You have great ability!",
+    "romanization": "DAHNG-koh-loo nah SEE-nyah-moo",
+    "context": "Complimenting someone's skill or effort"
+  },
+  {
+    "id": "p047",
+    "category": "encouragement",
+    "chamorro": "Hu sen guaiya i fino' CHamoru.",
+    "english": "I truly love the Chamorro language.",
+    "romanization": "hoo sen gwah-EE-yah ee FEE-no CHAH-moh-roo",
+    "context": "Expressing deep appreciation for the language"
+  },
+  {
+    "id": "p048",
+    "category": "encouragement",
+    "chamorro": "Kontinua fanestudiya!",
+    "english": "Keep studying!",
+    "romanization": "kohn-TEEN-oo-ah fah-nes-too-DEE-yah",
+    "context": "Motivating a language learner to continue"
+  }
+]

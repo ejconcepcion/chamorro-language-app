@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Node
+node_modules/
+web/dist/
+web/.vite/
+app/dist/
+
+# Python
+__pycache__/
+*.pyc
+.tmp/
+tools/__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Google OAuth (if present)
+credentials.json
+token.json

@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Håfa Adai",
+    "slug": "chamorro-language-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B7B8C"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.chamorro.languageapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0B7B8C"
+      },
+      "package": "com.chamorro.languageapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "ANTHROPIC_API_KEY": ""
+    }
+  }
+}
