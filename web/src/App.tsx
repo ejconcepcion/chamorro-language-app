@@ -7,7 +7,7 @@ import DictionaryPage from './pages/DictionaryPage'
 
 const tabs = [
   { to: '/', label: 'Home', icon: '🏠' },
-  { to: '/flashcards', label: 'Cards', icon: '🃏' },
+  { to: '/flashcards', label: 'Cards', icon: '🗂️' },
   { to: '/lessons', label: 'Lessons', icon: '📖' },
   { to: '/quiz', label: 'Quiz', icon: '✏️' },
   { to: '/dictionary', label: 'Dictionary', icon: '🔍' },
