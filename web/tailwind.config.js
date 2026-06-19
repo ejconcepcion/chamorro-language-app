@@ -9,7 +9,13 @@ export default {
           light: '#B2EBF2',
           dark: '#065F70',
         },
+        coral: {
+          DEFAULT: '#D4684A',
+          light: '#FDE8DC',
+          dark: '#A84E30',
+        },
         beige: '#F5F0E8',
+        ocean: '#072B36',
       },
     },
   },

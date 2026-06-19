@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { getAllLessonProgress, completeLesson } from '../services/progress'
+import { segmentWord } from '../utils/pronunciation'
 import lessonsData from '../data/lessons.json'
 import vocabularyData from '../data/vocabulary.json'
 import type { Lesson, VocabWord } from '../types'
@@ -65,7 +66,13 @@ function LessonDetail({
             {words.map((word) => (
               <div key={word.id} className="bg-white rounded-xl p-3 flex gap-4 shadow-sm">
                 <div className="flex-1">
-                  <p className="font-bold text-teal">{word.chamorro}</p>
+                  <p className="font-bold text-teal">
+                      {segmentWord(word.chamorro).map((seg, i) =>
+                        seg.highlight
+                          ? <span key={i} className="text-coral">{seg.text}</span>
+                          : <span key={i}>{seg.text}</span>
+                      )}
+                    </p>
                   <p className="text-xs text-gray-400 italic">{word.part_of_speech}</p>
                 </div>
                 <div className="flex-1">
