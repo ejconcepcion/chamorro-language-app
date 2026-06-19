@@ -1,13 +1,14 @@
-export function WaveDivider({ fill = '#F5F0E8', flip = false }: { fill?: string; flip?: boolean }) {
+// bg = color above the wave (prevents subpixel gap), fill = color below
+export function WaveDivider({ fill = '#F5F0E8', bg = 'transparent' }: { fill?: string; bg?: string }) {
   return (
     <svg
-      viewBox="0 0 1440 54"
+      viewBox="0 0 1440 56"
       className="w-full block"
-      style={{ transform: flip ? 'scaleY(-1)' : undefined, marginBottom: -1 }}
+      style={{ backgroundColor: bg }}
       preserveAspectRatio="none"
     >
       <path
-        d="M0 27C120 45 240 9 360 27C480 45 600 9 720 27C840 45 960 9 1080 27C1200 45 1320 9 1440 27L1440 54L0 54Z"
+        d="M0 28C120 48 240 8 360 28C480 48 600 8 720 28C840 48 960 8 1080 28C1200 48 1320 8 1440 28L1440 56L0 56Z"
         fill={fill}
       />
     </svg>

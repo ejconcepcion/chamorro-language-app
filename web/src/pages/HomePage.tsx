@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getDueCardIds, getTotalReviewed, getStreak } from '../services/progress'
 import { segmentWord } from '../utils/pronunciation'
+import { WaveDivider } from '../components/WaveDivider'
 import { PronunciationGuide } from '../components/PronunciationGuide'
 import vocabulary from '../data/vocabulary.json'
 import type { VocabWord } from '../types'
@@ -32,10 +33,13 @@ export default function HomePage() {
       {showGuide && <PronunciationGuide onClose={() => setShowGuide(false)} />}
 
       {/* Island hero */}
-      <div className="bg-ocean rounded-b-3xl px-5 pt-10 pb-8 shadow-lg">
-        <p className="text-teal-light text-xs font-bold tracking-[0.2em] uppercase">Fino' CHamoru</p>
-        <h1 className="text-4xl font-extrabold text-white mt-1 leading-tight">Håfa Adai! 🌊</h1>
-        <p className="text-teal-light/70 text-sm mt-1">The language of Guåhan &amp; the Marianas</p>
+      <div className="bg-ocean overflow-hidden">
+        <div className="px-5 pt-10 pb-2">
+          <p className="text-teal-light text-xs font-bold tracking-[0.2em] uppercase">Fino' CHamoru</p>
+          <h1 className="text-4xl font-extrabold text-white mt-1 leading-tight">Håfa Adai! 🌊</h1>
+          <p className="text-teal-light/70 text-sm mt-1">The language of Guåhan &amp; the Marianas</p>
+        </div>
+        <WaveDivider fill="#F5F0E8" bg="#072B36" />
       </div>
 
       <div className="max-w-lg mx-auto px-4 space-y-5 pt-5 pb-8">
@@ -58,7 +62,7 @@ export default function HomePage() {
 
         {/* Daily word */}
         <div className="bg-teal rounded-2xl overflow-hidden shadow-md">
-          <div className="px-5 pt-5 pb-4">
+          <div className="px-5 pt-5 pb-2">
             <p className="text-xs font-bold tracking-widest text-teal-light/70 uppercase">Word of the Day</p>
             <p className="text-4xl font-extrabold text-white mt-2">
               {dailySegments.map((seg, i) =>
@@ -72,6 +76,7 @@ export default function HomePage() {
               <p className="text-sm text-teal-light/70 mt-2 italic">"{daily.example_chamorro}"</p>
             )}
           </div>
+          <WaveDivider fill="#065F70" bg="#0B7B8C" />
           <div className="bg-teal-dark px-5 py-3 flex items-center justify-between">
             <p className="text-xs text-teal-light/60">{daily.category} · {daily.part_of_speech}</p>
             <button onClick={() => setShowGuide(true)} className="text-xs text-teal-light underline underline-offset-2">
